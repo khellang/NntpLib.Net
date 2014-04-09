@@ -1,4 +1,4 @@
-# NntpLib.Net <a href="http://ci.hellang.com/viewType.html?buildTypeId=NNTP_Master&tab=buildTypeStatusDiv&guest=1"><img src="http://ci.hellang.com/app/rest/builds/buildType:(id:NNTP_Master)/statusIcon"/></a>
+# NntpLib.Net
 An [RFC 3977](http://tools.ietf.org/pdf/rfc3977.pdf) and [RFC 4643](http://tools.ietf.org/pdf/rfc4643.pdf) compliant NNTP client library for .NET, written in C#.
 
 ## Usage
