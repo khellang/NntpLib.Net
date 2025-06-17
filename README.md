@@ -28,3 +28,11 @@ Description for `NntpClient` is coming soon...
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/khellang/nntplib.net/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+
+## Sponsors
+
+[Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=khellang&utm_medium=NntpLib.Net) and [Dapper Plus](https://dapper-plus.net/?utm_source=khellang&utm_medium=NntpLib.Net) are major sponsors and proud to contribute to the development of NntpLib.Net.
+
+[![Entity Framework Extensions](https://raw.githubusercontent.com/khellang/khellang/refs/heads/master/.github/entity-framework-extensions-sponsor.png)](https://entityframework-extensions.net/bulk-insert?utm_source=khellang&utm_medium=NntpLib.Net)
+
+[![Dapper Plus](https://raw.githubusercontent.com/khellang/khellang/refs/heads/master/.github/dapper-plus-sponsor.png)](https://dapper-plus.net/bulk-insert?utm_source=khellang&utm_medium=NntpLib.Net)
